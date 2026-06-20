@@ -57,4 +57,4 @@ Smart RFID Billing System is an automated billing solution designed to reduce bi
 
 ## Project Demo Video
 
-[Download Demo Video](./major_project_video%20(1).mp4)
+[Download Demo Video](./Smart_RFID_Billing_System_Demo.mp4)
